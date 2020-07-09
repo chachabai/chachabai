@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Pronouns: https://dna049.com
+- 🌱 learning: C/C++, Python, SageMath, Hopf Algebra, Homological Algebra
