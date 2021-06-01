@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: https://dna049.com(available till 2022)
+- 😄 Pronouns: https://dna049.com
 - 🌱 learning: C/C++, Python, SageMath, Hopf Algebra, Homological Algebra
